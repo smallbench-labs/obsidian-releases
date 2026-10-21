@@ -64692,5 +64692,12 @@
     "author": "bufan",
     "description": "Highlight and underline text, add footnote thoughts, and export excerpts with a reading sidebar and e-ink display. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "bufan1024/obsidian-inkstone-annotations"
+  },
+  {
+    "id": "streakwise",
+    "name": "Streakwise",
+    "author": "Smallbench Labs",
+    "description": "A habit heatmap and streak tracker for your daily notes.",
+    "repo": "smallbench-labs/streakwise"
   }
 ]
